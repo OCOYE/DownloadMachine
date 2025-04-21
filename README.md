@@ -17,7 +17,7 @@
 
 # **DownloadMachine✨**
 
-<img src="../DownloadMachine/DownloadMachine/forreadmelol/Videoapresetation.gif">
+<img src="forreadmelol/Videoapresetation.gif">
 
 ## **WHAT IS THIS?👀**
  A website for download cool software and use!
