@@ -32,7 +32,7 @@
  JavaScript<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="28px"> | ✅
  Software <img src="https://cdn-icons-png.flaticon.com/512/7308/7308168.png" width="28px"> | ✅
 # CONCLUSION🌟
- All is working fine without bugs or crashes and all software is translated for English.
+ All is working fine without bugs or crashes and all software are translated for English.
 
 ###### ⚠️[MIT License]⚠️
 ###### ***Thanks for Read🙏***
