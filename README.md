@@ -22,7 +22,7 @@
 ## **WHAT IS THIS?👀**
  A website for download MY software, like a calculator!! Simple software, but is so much important.
 ## **HOW TO USE?🤷‍♂️**
-  Click in the bow with an arrow, select the software for download. Do you want select other language? Click in "Config"
+  Click in the box with an arrow, select the software for download. Do you want select other language? Click in "Config"
   and click in Usa Flag and enjoy!!
 ## STATUS😉
  Things | Completed?
