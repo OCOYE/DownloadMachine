@@ -20,7 +20,7 @@
 <img src="Videos/VideoApresentation.gif" width="1600px" autosize>
 
 ## **WHAT IS THIS?👀**
- A website for download cool software and use!
+ A website for download MY software, like a calculator!! Simple software, but is so much important.
 ## **HOW TO USE?🤷‍♂️**
   Click in the bow with an arrow, select the software for download. Do you want select other language? Click in "Config"
   and click in Usa Flag and enjoy!!
