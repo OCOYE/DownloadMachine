@@ -17,7 +17,7 @@
 
 # **DownloadMachine✨**
 
-<img src="Videos/VideoApresentation.gif" width="1600px" autoplay autosize>
+<img src="Videos/VideoApresentation.gif" width="1600px" autoplay loop muted>
 
 ## **WHAT IS THIS?👀**
  A website for download MY software, like a calculator!! Simple software, but is so much important.
