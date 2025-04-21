@@ -17,7 +17,7 @@
 
 # **DownloadMachine✨**
 
-<img src="Videos/VideoApresentation.gif">
+<img src="Videos/VideoApresentation.gif" width="1600px" autosize>
 
 ## **WHAT IS THIS?👀**
  A website for download cool software and use!
